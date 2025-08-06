@@ -1,0 +1,7 @@
+999
+String from second file
+3.14159
+-777
+Mixed content 123
+1.5
+End of file
