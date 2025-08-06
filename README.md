@@ -66,7 +66,7 @@ java -jar target/file-filter-utility.jar -o output -f file1.txt file2.txt file3.
 
 ### Пример
 #### Terminal view
-![Screenshot-1.png](screens/Screenshot-1.png)]
+![Screenshot-1.png](screens/Screenshot-1.png)
 #### data.txt(input file)
 ![Screenshot-data.png](screens/Screenshot-data.png)
 #### result: integers
