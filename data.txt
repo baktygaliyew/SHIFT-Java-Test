@@ -1,0 +1,15 @@
+999
+String from second file
+3.14159
+-777
+Mixed content 123
+
+1.5
+End of file
+
+
+-456
+
+2.5e-3
+Test String
+0

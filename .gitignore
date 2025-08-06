@@ -72,3 +72,5 @@ result_*
 # Temporary files
 *.tmp
 *.temp
+
+./screens
