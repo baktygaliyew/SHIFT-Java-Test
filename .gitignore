@@ -64,7 +64,6 @@ Thumbs.db
 integers.txt
 floats.txt
 strings.txt
-result_*
 
 # Log files
 *.log
