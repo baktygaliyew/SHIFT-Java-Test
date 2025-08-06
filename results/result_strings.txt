@@ -1,0 +1,4 @@
+String from second file
+Mixed content 123
+End of file
+Test String
